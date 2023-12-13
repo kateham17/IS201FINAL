@@ -1,0 +1,21 @@
+.mb-2{
+    width: 450px;
+    height: 1000px;
+}
+
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.darkcolor{
+    background-color: rgb(22, 18, 232) !important;
+}
+
+
+.mb-5{
+    color: black !important;
+}
+
+.gmail{
+    color:blue !important;
+}
